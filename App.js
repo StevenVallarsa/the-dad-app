@@ -5,7 +5,6 @@ import Home from "./components/Home";
 import Inspire from "./components/Inspire";
 import Express from "./components/Express";
 import Icon from "react-native-vector-icons/FontAwesome5";
-import Ionicons from "react-native-vector-icons/Ionicons";
 
 const TabNavigator = createBottomTabNavigator(
   {
